@@ -241,7 +241,7 @@ GameObject:
   - component: {fileID: 669140909}
   - component: {fileID: 669140908}
   m_Layer: 0
-  m_Name: West Wall (3)
+  m_Name: 'South Wall '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -880,7 +880,7 @@ GameObject:
   - component: {fileID: 1256257174}
   - component: {fileID: 1256257173}
   m_Layer: 0
-  m_Name: West Wall (2)
+  m_Name: 'North Wall '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -985,7 +985,7 @@ GameObject:
   - component: {fileID: 1440508424}
   - component: {fileID: 1440508423}
   m_Layer: 0
-  m_Name: West Wall (1)
+  m_Name: 'East Wall '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
